@@ -81,7 +81,7 @@ public class Password extends JPanel implements ActionListener {
 	 */
 	private static boolean isPasswordCorrect(char[] input) {
 		boolean isCorrect = true;
-		char[] correctPassword = { 'b', 'u', 'g', 'a', 'b', 'o', 'o' };
+		char[] correctPassword = { 'z','u','l','f','i','q','a','r' };
 		if (input.length != correctPassword.length) {
 			isCorrect = false;
 		} else {
